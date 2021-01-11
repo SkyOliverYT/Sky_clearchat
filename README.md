@@ -1,2 +1,3 @@
 # Sky_clearchat
 Bare en simpel clearchat
+lille credit til XmX fordi jeg lavede navnet om på denne her og leakede den...
